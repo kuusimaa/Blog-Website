@@ -18,7 +18,7 @@ Blog website. made in Dr.Angela Yu's Web development bootcamp.
 
 ## Images
 ![Home Page](/images/home.PNG?raw=true "Home Page")
-![Contact Page](/images/contact.png?raw=true "contact Page")
+![Contact Page](/images/contact.PNG?raw=true "contact Page")
 ![About Page](/images/about.PNG?raw=true "About Page")
 ![Register Page](/images/post.PNG?raw=true "post Page")
 ![compose Page](/images/compose.PNG?raw=true "compose Page")
